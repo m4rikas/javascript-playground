@@ -1,0 +1,19 @@
+body {
+      margin: 0;
+      padding: 20px;
+      background-color: antiquewhite;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+}
+
+.into_text {
+      font-size: 40px;
+      max-width: 1200px;
+      text-align: center;
+}
+
+.into_text span {
+      color: red;
+}
