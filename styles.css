@@ -6,6 +6,7 @@ body {
       justify-content: center;
       align-items: center;
       height: 100vh;
+      font-family: 'Rubik', sans-serif;
 }
 
 .into_text {
@@ -16,4 +17,5 @@ body {
 
 .into_text span {
       color: red;
+      font-weight: 400;
 }
